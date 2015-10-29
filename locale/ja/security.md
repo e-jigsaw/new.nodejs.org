@@ -35,14 +35,14 @@ towards a fix and full announcement, and may ask for additional information or g
 These updates will be sent at least every five days, in practice, this is more likely to be every 24-48 hours.
 -->
 
-最初の返信のあと、セキュリティチームは修正とその発表に向けて尽力する関係で追加の情報や手順を尋ねることがあります。これらのアップデートは5日以内に、実際には24-48時間以内に送信されるでしょう。
+最初に返信した後、修正とアナウンスを行うために、セキュリティチームから追加の情報や手順を尋ねることがあります。これらのアップデートは遅くとも5日以内に、実際には24-48時間以内に送信されるでしょう。
 
 <!--
 Security bugs in third party modules should be reported to their respective maintainers and can also be coordinated
 through the [Node Security Project](https://nodesecurity.io).
 -->
 
-サードパーティ製のモジュールでのセキュリティバグはそれぞれのメンテナに報告するか、[Node セキュリティプロジェクト](https://nodesecurity.io)がサポートすることもできます。
+サードパーティ製のモジュールでのセキュリティバグはそれぞれのメンテナに報告するか、[Node セキュリティプロジェクト](https://nodesecurity.io)で報告することもできます。
 
 <!--
 Thank you for improving the security of Node.js. Your efforts and responsible disclosure are greatly appreciated and
@@ -121,7 +121,7 @@ Security notifications will be distributed via the following methods.
 ## Comments on this Policy
 -->
 
-## ポリシーに意見がある場合
+## ポリシーに対するコメント
 
 <!--
 If you have suggestions on how this process could be improved please submit a [pull request](https://github.com/joyent/node-website)
